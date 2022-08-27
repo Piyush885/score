@@ -36,7 +36,7 @@ def hello_world():
     return {"score":finalscore}
 
 
-app.run()      
+app.run(port=8000)      
 
               
 
